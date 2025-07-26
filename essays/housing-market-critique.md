@@ -20,4 +20,4 @@ The most effective solution remains the simplest: build more. A significant incr
 
 <br>
 
-**Luís Cupido**o
+**Luís Cupido**
