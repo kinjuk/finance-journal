@@ -18,6 +18,10 @@ Sorting course notes, key concepts, essays and misc tools.
 
 ## 🗓️ Scheduled / To Come
 
+### ▸ Beta (β) Calculator – Beta Version  
+Calculate a stock’s beta relative to a benchmark index using a spreadsheet.  
+Focuses on outlining core formulas and calculations, without implementing data gathering (hence the "beta" version).
+
 ### ▸ FX Interest Rate Arbitrage Calculator (Excel)  
 Tool to compare net yields when switching between currencies (EUR → USD) based on central bank rates vs broker conversion costs and current FX rate.  
 Calculates whether it's worth converting for yield advantages (as in 2% ECB vs 4% Fed).
