@@ -17,6 +17,7 @@ Sorting course notes, key concepts, essays and misc tools.
 ### ▸ FX Interest Rate Arbitrage Calculator (Excel)  
 Tool to compare net yields when switching between currencies (EUR → USD) based on central bank rates vs broker conversion costs and current FX rate.  
 Calculates whether it's worth converting for yield advantages (as in 2% ECB vs 4% Fed).
+Adding a spot rate out and spot rate back.
 
 ---
 
