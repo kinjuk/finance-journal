@@ -18,8 +18,8 @@ Sorting course notes, key concepts, essays and misc tools.
 Tool to compare net yields when switching between currencies (EUR → USD) based on central bank rates vs broker conversion costs and current FX rate.  
 Calculates whether it's worth converting for yield advantages (as in 2% ECB vs 4% Fed).  
 Add spot rate out and spot rate back.  
-Add implied 1y forward spot rate (assuming market fundamentals)
-
+Add implied 1y forward spot rate (assuming normal market conditions where forward is expected above spot / backwardation scenarios excluded).  
+  
 ---
 
 ## 🗓️ Scheduled / To Come
