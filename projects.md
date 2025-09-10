@@ -19,14 +19,18 @@ Tool to compare net yields when switching between currencies (EUR → USD) based
 Calculates whether it's worth converting for yield advantages (as in 2% ECB vs 4% Fed).  
 Add spot rate out and spot rate back.  
 Add implied 1y forward spot rate (assuming normal market conditions where forward is expected above spot / backwardation scenarios excluded).  
+
+### ▸ Beta (β) Calculator (Excel)  
+Spreadsheet tool to calculate a stock’s beta relative to a benchmark index.
+Calculates 3y, 5y, and 10y betas using daily closing price data.
+
+Implementing either Google Finance formulas as direct ticker reference in the sheet or imported CSV files fetched separately via Python (yfinance). "Easy vs Accurate" dilemma. 
+
+Beta is calculated through slope function. A covariance method might be added in paralel to crosscheck the data.
   
 ---
 
 ## 🗓️ Scheduled / To Come
-
-### ▸ Beta (β) Calculator – Beta Version  
-Calculate a stock’s beta relative to a benchmark index using a spreadsheet.  
-Focuses on outlining core formulas and calculations, without implementing data gathering (hence the "beta" version).
 
 ### ▸ Portfolio Optimization in Excel  
 Step-by-step implementation of modern portfolio theory using Excel.  
