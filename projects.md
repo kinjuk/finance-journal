@@ -26,7 +26,9 @@ Calculates 3y, 5y, and 10y betas using daily closing price data.
 
 Implementing either Google Finance formulas as direct ticker reference in the sheet or imported CSV files fetched separately via Python (yfinance). "Easy vs Accurate" dilemma. 
 
-Beta is calculated through slope function. A covariance method might be added in paralel to crosscheck the data.
+Beta is calculated through slope function. A covariance method might be added in paralel to crosscheck the data.  
+
+Tool currently functions throught pulled data from yfinance but google finance data is also shown side by side for comparison's sake.
   
 ---
 
