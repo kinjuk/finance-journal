@@ -40,7 +40,7 @@ Each idea is executed either manually, via API, or another method and recorded i
 
 Over time, the accumulated data and statistics will reveal what works, what needs refinement, and what is unprofitable, while also highlighting good vs. bad instincts and decision-making patterns.  
 
-Excel File with Logs and Notes will be available in due time.
+Log Book + Notes will be available in due time.
   
 ---
 
