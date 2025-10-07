@@ -38,7 +38,9 @@ This repository is designed to exhaustively document and analyze every trading s
 
 Each idea is executed either manually, via API, or another method and recorded in detail, capturing positions, prices, timing, and outcomes.  
 
-Over time, the accumulated data and statistics will reveal what works, what needs refinement, and what is unprofitable, while also highlighting good vs. bad instincts and decision-making patterns.
+Over time, the accumulated data and statistics will reveal what works, what needs refinement, and what is unprofitable, while also highlighting good vs. bad instincts and decision-making patterns.  
+
+Excel File with Logs and Notes will be available in due time.
   
 ---
 
