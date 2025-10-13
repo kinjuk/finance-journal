@@ -5,7 +5,7 @@ Helps me stay focused and mostly avoid idea loss.
 
 ---
 
-## 🔄 On-going
+## 🔄 On-going / Finished
 
 ### ▸ Momentum Strategy Research (MACD & RSI)  
 Exploring momentum-based systems using MACD and RSI crossovers.  
