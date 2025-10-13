@@ -15,6 +15,9 @@ Extending to assets like Gold, Bitcoin, and sector stocks to evaluate where thes
 ### ▸ Finance-Journal Organization  
 Sorting course notes, key concepts, essays and misc tools.  
 
+Order Flow notes available.  
+
+
 ### ▸ FX Interest Rate Arbitrage Calculator (Excel)  
 Tool to compare net yields when switching between currencies (EUR → USD) based on central bank rates vs broker conversion costs and current FX rate.  
 
