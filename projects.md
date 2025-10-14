@@ -15,9 +15,6 @@ Extending to assets like Gold, Bitcoin, and sector stocks to evaluate where thes
 ### ▸ Finance-Journal Organization  
 Sorting course notes, key concepts, essays and misc tools.  
 
-Order Flow notes available.  
-
-
 ### ▸ FX Interest Rate Arbitrage Calculator (Excel)  
 Tool to compare net yields when switching between currencies (EUR → USD) based on central bank rates vs broker conversion costs and current FX rate.  
 
@@ -35,6 +32,9 @@ Implementing either Google Finance formulas as direct ticker reference in the sh
 Beta is calculated through slope function. A covariance method might be added in paralel to crosscheck the data.  
 
 Tool currently functions throught pulled data from yfinance but google finance data is also shown side by side for comparison's sake.
+
+### ▸ Order Types Flow & Trade Flow Notes  
+Comprehensive overview of how trades progress through the market and how each order type shapes the execution flow.
 
 ### ▸ Demo Portfolio Log Book 
 This repository is designed to exhaustively document and analyze every trading strategy deemed worth testing.  
@@ -58,6 +58,3 @@ Goal: build a reusable template to maximize return vs. risk across various asset
 Excel-based tool to evaluate and compare portfolio strategies using Sharpe, Sortino, and other risk-adjusted metrics.  
 
 Identify the most efficient portfolio construction approach across different assets and optimizations.
-
-### ▸ Order Types & Trade Flow Note  
-Simple write-up with diagrams explaining market, limit, stop, and conditional orders.
