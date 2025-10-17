@@ -45,7 +45,7 @@ Dafault template built using SPY, BND, GLD, QQQ and VTI.
 ## 🗓️ Scheduled / To Come
 
 ### ▸ Portfolio Optimization in Python
-Step-by-step implementation of Modern Portfolio Theory in Python.
+Step-by-step implementation of Modern Portfolio Theory in Python.  
 Includes data download, return calculation, covariance matrix, optimizer (scipy most likely) for mean-variance or Sharpe-maximization, and reusable outputs (weights, expected return, volatility).  
 Default universe is SPY, BND, GLD, QQQ and VTI.
 
