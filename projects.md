@@ -44,10 +44,10 @@ Dafault template built using SPY, BND, GLD, QQQ and VTI.
 
 ## 🗓️ Scheduled / To Come
 
-### ▸ Portfolio Optimization in Excel  
-Step-by-step implementation of modern portfolio theory using Excel.  
-Includes expected return, standard deviation, covariance matrix, and solver-based optimization.  
-Goal: build a reusable template to maximize return vs. risk across various asset combinations.
+### ▸ Portfolio Optimization in Python
+Step-by-step implementation of Modern Portfolio Theory in Python.
+Includes data download, return calculation, covariance matrix, optimizer (scipy most likely) for mean-variance or Sharpe-maximization, and reusable outputs (weights, expected return, volatility).  
+Default universe is SPY, BND, GLD, QQQ and VTI.
 
 ### ▸ Portfolio Efficiency Comparison Tool  
 Excel-based tool to evaluate and compare portfolio strategies using Sharpe, Sortino, and other risk-adjusted metrics.  
