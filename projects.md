@@ -51,4 +51,8 @@ Default universe is SPY, BND, GLD, QQQ and VTI.
 
 ### ▸ Portfolio Efficiency Comparison Tool  
 Excel-based tool to evaluate and compare portfolio strategies using Sharpe, Sortino, and other risk-adjusted metrics.  
-Identify the most efficient portfolio construction approach across different assets and optimizations.
+Identify the most efficient portfolio construction approach across different assets and optimizations.  
+  
+### ▸ IBKR API Integration (TWS + Python)
+Setup of the Interactive Brokers API through TWS using Python for data access, strategy testing, and automated paper trading.
+Intended as a long-term replacement for current demo backtesting methods, providing a more reliable and algorithm-driven framework once fully implemented.
