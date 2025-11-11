@@ -58,5 +58,5 @@ Setup of the Interactive Brokers API through TWS using Python for data access, s
 Intended as a long-term replacement for current demo backtesting methods, providing a more reliable and algorithm-driven framework once fully implemented.
 
 ### ▸ Valuation Models (Excel)
-Develop multiple fair value estimation models, including DCF, Dividend Discount, and comparable multiples.
+Develop multiple fair value estimation models, including DCF, Dividend Discount, etc.
 Each model outputs intrinsic value per share. Results may be averaged if consistency and assumptions align.
