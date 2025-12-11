@@ -44,6 +44,10 @@ Dafault template built using SPY, BND, GLD, QQQ and VTI.
 Step-by-step implementation of Modern Portfolio Theory in Python.  
 Includes data download, return calculation, standard deviation, covariance matrix, optimizer (scipy) for Sharpe-maximization. 
 Default universe is SPY, BND, GLD, QQQ and VTI.
+
+### ▸ Valuation Models (Excel)
+Develop multiple fair value estimation models, including DCF, Dividend Discount, etc.
+Each model outputs intrinsic value per share.
   
 ---
 
@@ -56,7 +60,3 @@ Identify the most efficient portfolio construction approach across different ass
 ### ▸ IBKR API Integration (TWS + Python)
 Setup of the Interactive Brokers API through TWS using Python for data access, strategy testing, and automated paper trading.
 Intended as a long-term replacement for current demo backtesting methods, providing a more reliable and algorithm-driven framework once fully implemented.
-
-### ▸ Valuation Models (Excel)
-Develop multiple fair value estimation models, including DCF, Dividend Discount, etc.
-Each model outputs intrinsic value per share. Results may be averaged if consistency and assumptions align.
