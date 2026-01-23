@@ -45,10 +45,18 @@ Step-by-step implementation of Modern Portfolio Theory in Python.
 Includes data download, return calculation, standard deviation, covariance matrix, optimizer (scipy) for Sharpe-maximization. 
 Default universe is SPY, BND, GLD, QQQ and VTI.
 
+### ▸ Portfolio Efficiency Comparison Tool  
+Excel-based tool to evaluate and compare portfolio strategies using Sharpe, Sortino, and other risk-adjusted metrics.  
+Identify the most efficient portfolio construction approach across different assets and optimizations.  
+
 ### ▸ Valuation Models (Excel)
 Develop multiple fair value estimation models, including DCF, Dividend Discount, etc.
 Each model outputs intrinsic value per share.
-  
+Models are applied to certain equities which gives dated valuation snapshots and will be stored accordingly in the "market-analysis" repository.  
+Contextual factors such as macro, market sentiment, pertinent news, technical/charting observations, and general analytical notes are documented inside the spreadsheet to provide aditional and/or necessary assumptions and information.
+
+
+
 ---
 
 ## 🗓️ Scheduled / To Come
