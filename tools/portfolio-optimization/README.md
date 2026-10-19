@@ -1,6 +1,6 @@
-# Portfolio Optimization Tool (Sharpe Ratio)
+# Portfolio Optimization Tool
 
-A standalone Python script that automates Modern Portfolio Theory (MPT) to find the maximum Sharpe Ratio portfolio. It downloads historical data, calculates risk and return metrics, runs a bounded mathematical optimization, and outputs the final allocation summaries and charts.
+A standalone Python script that automates Modern Portfolio Theory (MPT) to find the maximum Sharpe/Sortino Ratio portfolio. It downloads historical data, calculates risk and return metrics, runs a bounded mathematical optimization, and outputs the final allocation summaries and charts.
 
 ## Key Features
 
