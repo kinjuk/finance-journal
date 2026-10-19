@@ -6,7 +6,7 @@ A standalone Python script that automates Modern Portfolio Theory (MPT) to find 
 
 * **Automated Data Fetching:** Uses `yfinance` to download historical daily closing prices.
 * **Continuous Return Modeling:** Calculates daily returns via natural log (`np.log(prices / prices.shift(1))`) for accurate time-aggregation.
-* **Risk-Adjusted Maximization:** Optimizes asset weights to maximize the Sharpe Ratio against a designated risk-free rate hurdle using `scipy.optimize.minimize`.
+* **Risk-Adjusted Maximization:** Optimizes asset weights to maximize the Sharpe/Sortino Ratio against a designated risk-free rate hurdle using `scipy.optimize.minimize`.
 * **Built-in Constraints:** Enforces strict minimum and maximum allocation bounds per asset while ensuring total weights sum to exactly 100%.
 * **Automated Artifact Generation:** Saves all foundational matrices, computed expected returns, raw historical prices, final portfolio summaries, and visual allocation pie charts to a structured local directory.
 
