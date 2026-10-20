@@ -31,12 +31,24 @@ with st.sidebar:
 
 C = dict(bg="#0b1220", card="#111a2e", fg="#e6edf7", mut="#8da2c0", line="#22304d") if dark else \
     dict(bg="#f4f6fa", card="#ffffff", fg="#0f1a2b", mut="#5b6b82", line="#dbe2ec")
+ACC = "#4f9dff" if dark else "#1f6feb"
 PAL = ["#4f9dff", "#f5b942", "#3ddc97", "#ff6b6b", "#b48cff", "#2ec4d6", "#ff9f68", "#9aa5b1"]
 st.markdown(f"""<style>
 .stApp{{background:{C['bg']}}} [data-testid=stSidebar]{{background:{C['card']}}}
 h1,h2,h3,h4,label,p,li,[data-testid=stMetricValue],[data-testid=stMetricLabel],[data-testid=stCaptionContainer]{{color:{C['fg']}!important}}
 [data-testid=stMetric]{{background:{C['card']};border:1px solid {C['line']};border-radius:12px;padding:14px 16px}}
 .block-container{{padding-top:2rem;max-width:1300px}}
+:root{{--ease-out:cubic-bezier(.23,1,.32,1);--ease-in-out:cubic-bezier(.77,0,.175,1)}}
+.stApp{{-webkit-font-smoothing:antialiased;font-variant-numeric:tabular-nums}}
+h1{{text-wrap:balance}}
+:focus-visible{{outline:2px solid {ACC};outline-offset:2px}}
+[data-baseweb=tab-highlight]{{background-color:{ACC}!important}}
+[data-testid=stDownloadButton] button{{transition:background-color 140ms var(--ease-out),border-color 140ms var(--ease-out),transform 140ms var(--ease-out)}}
+[data-testid=stDownloadButton] button:active{{transform:scale(.97)}}
+@media (hover:hover) and (pointer:fine){{[data-testid=stDownloadButton] button:hover{{border-color:{ACC}}}}}
+[data-baseweb=tab-panel]:not([hidden]){{opacity:1;transition:opacity 140ms var(--ease-out)}}
+@starting-style{{[data-baseweb=tab-panel]:not([hidden]){{opacity:0}}}}
+@media (prefers-reduced-motion:reduce){{[data-testid=stDownloadButton] button:active{{transform:none}}[data-baseweb=tab-panel]{{transition:none!important}}}}
 </style>""", unsafe_allow_html=True)
 
 
