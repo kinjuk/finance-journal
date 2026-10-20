@@ -1,6 +1,8 @@
 # Optimization Lab
 Streamlit dashboard: Sharpe / Sortino / Min-vol optimizers, efficient frontier, constraint diagnostics, backtest, projection.
 
+Live app: https://opt-lab.streamlit.app/
+
 ## Run
     pip install -r requirements.txt
     streamlit run app.py
