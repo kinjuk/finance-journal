@@ -40,8 +40,8 @@ Step-by-step implementation of modern portfolio theory using Excel.
 Includes expected return, standard deviation, covariance matrix, and solver-based optimization.  
 Dafault template built using SPY, BND, GLD, QQQ and VTI.  
   
-### ▸ Portfolio Optimization in Python
-Step-by-step implementation of Modern Portfolio Theory in Python.  
+### ▸ Portfolio Optimization in Python - Turned into Optimization Lab App
+Step-by-step implementation of Modern Portfolio Theory in Python.
 Includes data download, return calculation, standard deviation, covariance matrix, optimizer (scipy) for Sharpe-maximization. 
 Default universe is SPY, BND, GLD, QQQ and VTI.
 
