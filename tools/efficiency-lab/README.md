@@ -1,4 +1,7 @@
 # Efficiency Lab
+
+Live app: https://eff-lab.streamlit.app/
+
 Enter a portfolio (tickers + %), set goal/horizon/risk, get a 0-100 diagnostic score, rule-based and optimizer what-if suggestions, and comparisons vs benchmarks, famous model portfolios and 13F investors.
 
     pip install -r requirements.txt
