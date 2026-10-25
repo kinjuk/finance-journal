@@ -1,5 +1,7 @@
 # Optimization Lab
 Portfolio optimizer: React + TypeScript frontend, FastAPI + SciPy backend. Sharpe, Sortino and min-volatility objectives, efficient frontier, constraint-binding diagnostics, any Yahoo ticker.
+
+Live: https://opt-lab.vercel.app/
  
     backend/   FastAPI + SciPy SLSQP engine, validated endpoint, pytest suite
     frontend/  Vite + React + TypeScript, Recharts, design tokens, dark/light, vitest
